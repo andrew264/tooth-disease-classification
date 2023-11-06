@@ -1,0 +1,6 @@
+notebook
+tensorflow
+keras
+matplotlib
+Pillow
+numpy
